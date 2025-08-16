@@ -25,7 +25,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SpotifyPlayerWidget.git
+git clone https://github.com/FerdiWoo/MacSpotifyWidget.git
 cd SpotifyPlayerWidget
 ```
 
