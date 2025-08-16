@@ -1,6 +1,6 @@
 # Spotify Player Widget for macOS
 
-A beautiful, native macOS widget for controlling Spotify playback with a clean and modern interface.
+(Uncompleted) A beautiful, native macOS widget for controlling Spotify playback with a clean and modern interface.
 
 ![Spotify Player Widget](screenshot.png)
 
